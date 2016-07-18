@@ -1,14 +1,14 @@
-layout_spectrum: 0.9131939776707441
-typography_spectrum: 0.011266035260632634
+layout_spectrum: 0.5450325584970415
+typography_spectrum: 0.02262068330310285
 color:
-  brandStrength: 0.286828629206866
-  lightness: 0.3579280278645456
-  saturation: 0.4741469365544617
-  rhythmicContrast: 0.77690205629915
+  brandStrength: 0.8718160437420011
+  lightness: 0.7569857803173363
+  saturation: 0.4678409583866596
+  rhythmicContrast: 0.26379536045715213
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: KoonArtDesign
