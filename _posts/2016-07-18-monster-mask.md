@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-23T01:05:13.135Z'
+datePublished: '2016-07-23T01:05:31.109Z'
 sourcePath: _posts/2016-07-18-monster-mask.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2d566f4-7a10-40f7-8367-11d01f5125e6.jpg
 author: []
 via: {}
-dateModified: '2016-07-23T01:05:12.565Z'
+dateModified: '2016-07-23T01:05:30.751Z'
 title: Monster Mask
 publisher: {}
 description: Abc abc
